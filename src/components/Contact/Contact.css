@@ -21,7 +21,7 @@
   height:150px;
   width: 200px;
   border-radius: 10px;
-  background-color: #66FCF1;
+  background-color: #0d3531;
   color:darkmagenta;
   margin:5px 10px 20px;
   cursor: pointer; 
@@ -81,42 +81,16 @@
 }
 
 
-.change-radius:hover{
-  background-color: crimson;
-  transition: all 1s;
-  border-radius: 50%;
-}
 
-.expand-left-right:hover{
-  background-color: crimson;
-  transition: all 1s;
-  transform : scaleX(1.5);
-}
 
-.expand-up-down:hover{
-  background-color: crimson;
-  transition: all 1s;
-  transform : scaleY(1.5);
-}
 
-.rotate-clockwise:hover{
-  background-color: crimson;
-  transition: all 1s;
-  -webkit-transform: rotateZ(30deg);
-      -ms-transform: rotateZ(30deg);
-      transform: rotateZ(30deg);
-}
 
-.rotate-anti-clockwise:hover{
-  background-color: crimson;
-  transition: all 1s;
-  -webkit-transform: rotateZ(-30deg);
-      -ms-transform: rotateZ(-30deg);
-      transform: rotateZ(-30deg);
-}
+
+
+
 
 .rotate-360-clockwise:hover{
-  background-color: rgb(179, 154, 159);
+  background-color: #45A29E;
   transition: all 1s;
   -webkit-transform: rotateZ(360deg);
       -ms-transform: rotateZ(360deg);
@@ -131,91 +105,18 @@
       transform: rotateZ(-360deg);
 }
 
-.filip-horizontal:hover{
-  background-color: crimson;
-  transition: all 2s;
-  -webkit-transform: rotateY(-360deg);
-      -ms-transform: rotateY(-360deg);
-      transform: rotateY(-360deg);
-}
 
-.filip-horizontal-mirror:hover{
-  background-color: crimson;
-  transition: all 2s;
-  -webkit-transform: rotateY(180deg);
-      -ms-transform: rotateY(180deg);
-      transform: rotateY(180deg);
-}
 
-.filip-vertical:hover{
-  background-color: crimson;
-  transition: all 2s;
-  -webkit-transform: rotateX(-360deg);
-      -ms-transform: rotateX(-360deg);
-      transform: rotateX(-360deg);
-}
 
-.filip-vertical-mirror:hover{
-  background-color: crimson;
-  transition: all 2s;
-  -webkit-transform: rotateX(180deg);
-      -ms-transform: rotateX(180deg);
-      transform: rotateX(180deg);
-}
 
-.inset-box-shadow:hover{
-  background-color: crimson;
-  transition: all 1s;
-  box-shadow: inset 0 0 0 20px #2f2f2f;
-  font-size: 25px;
-}
 
-.offset-box-shadow:hover{
-  background-color: crimson;
-  transition: all 1s;
-  box-shadow: 0 0 0 20px #2f2f2f;
-}
 
-.smooth-offset-box-shadow:hover{
-  background-color: crimson;
-  transition: all 1s;
-  box-shadow: 0 0 20px 20px #2f2f2f;
-}
 
-.smooth-inset-box-shadow:hover{
-  background-color: crimson;
-  transition: all 1s;
-  box-shadow: inset 0 0 20px 20px #2f2f2f;
-}
 
-.gradient-color-box{
-  width: 100%;
-  height: 100px;
-  background-image: linear-gradient(to right, lightgreen , darkgreen);
-  transition: all 1s;
-  cursor: pointer;
-  border: 3px solid aqua;
-  color: white;
-  text-align: center;
-  padding-top: 10px;
-}
 
-.gradient-color-box:hover{
-  transition: all 1s;
-  background-image: linear-gradient(to right, darkgreen , lightgreen);
-}
 
-.yvanaplaceholder{
-display: flex;
-text-align: center;
-justify-content: center;
-}
 
-.yvana{
-color: darkgreen;
-text-decoration: none;
-}
 
-.name{
-color: crimson;
-}
+
+
+
