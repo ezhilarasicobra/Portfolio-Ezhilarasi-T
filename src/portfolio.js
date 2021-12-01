@@ -10,7 +10,7 @@ const about = {
   role: 'MERN STACK DEVELOPER',
   description:
     'As a person of IT interset, I have learnt various technologies like ReactJS, NodeJS, Express, MongoDB and tools like Qlikview, RPA - BLueprism and Automation Anywhere.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1U3X7pF8cu9wv5C1-7jHKcnhHgVL-iOcB/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
@@ -49,8 +49,9 @@ const projects = [
     description:
       'I have created an Advise application with ALAN Artifical Intelligence. Where we can able to get an advise from the advise Guru',
       stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB', 'Alan AI'],
-    sourceCode: 'https://advise-app-using-ai.netlify.app/',
-    livePreview: 'https://github.com/ezhilarasicobra/AdviseAppusing-ALAN',
+
+      livePreview: 'https://advise-app-using-ai.netlify.app/',
+     sourceCode: 'https://github.com/ezhilarasicobra/AdviseAppusing-ALAN',
   },
 ]
 

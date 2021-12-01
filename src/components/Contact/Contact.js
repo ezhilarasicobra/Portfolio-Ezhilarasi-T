@@ -11,7 +11,10 @@ const Contact = () => {
         <h2 className='section__title'>Interest / Achievements</h2>
       </div>
       <div>
-      <div className='boxes rotate-360-clockwise'> Have Worked in More than 10 Automation Enhancements </div>
+      <div className='boxes rotate-360-clockwise'> 
+      Have Worked in More than 10 Automation Enhancements. 
+      Been a Extra Mile Worker in my Project.
+      </div>
       
 
       </div>
