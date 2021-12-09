@@ -21,7 +21,7 @@ const About = () => {
       <div className='about__contact center'>
         {resume && (
           <a
-          href="https://drive.google.com/file/d/1U3X7pF8cu9wv5C1-7jHKcnhHgVL-iOcB/view?usp=sharing" target="_blank"
+          href="https://drive.google.com/file/d/1ANu5ta_ZyyQ-Wc1KJYiruwajHpnQFJSZ/view?usp=sharing" target="_blank"
           aria-label='github'
           className='link link--icon'
         >
