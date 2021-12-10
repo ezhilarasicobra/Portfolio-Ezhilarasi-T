@@ -2,7 +2,6 @@
   "name": "cleanfolio",
   "version": "0.1.0",
   "private": true,
-  
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -14,6 +13,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-flippy": "^1.1.0",
+    "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
     "react-vertical-timeline-component": "^3.5.2",
     "styled-components": "^5.3.3",
