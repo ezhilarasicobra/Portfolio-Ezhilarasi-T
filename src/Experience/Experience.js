@@ -24,7 +24,7 @@ function Experience() {
             <i classNa="gg-work-alt"/>
           }
         >
-          <h3 className='vertical-timeline-element-title'>Started my journey as a CONSULTANT in Sutherland global solutions</h3>
+          <h3 className='vertical-timeline-element-title'>Started my journey as a CONSULTANT in Sutherland global solutions.</h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
@@ -36,7 +36,7 @@ function Experience() {
             <i classNa="gg-work-alt"/>
           }
         >
-          <h3 className='vertical-timeline-element-title'>Started my journey as a PROGRAMMER ANALYST With Cognizant Teachnology Solutions</h3>
+          <h3 className='vertical-timeline-element-title'>Started my journey as a PROGRAMMER ANALYST With Cognizant Technology Solutions.</h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
@@ -48,7 +48,7 @@ function Experience() {
             <i classNa="gg-work-alt"/>
           }
         >
-          <h3 className='vertical-timeline-element-title'>Worked as a Qlikview support Engineer</h3>
+          <h3 className='vertical-timeline-element-title'>Worked as a Qlikview support Engineer.</h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
@@ -60,7 +60,7 @@ function Experience() {
             <i classNa="gg-work-alt"/>
           }
         >
-          <h3 className='vertical-timeline-element-title'>Moved to RPA - blueprism Technology</h3>
+          <h3 className='vertical-timeline-element-title'>Moved to RPA - blueprism Technology.</h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
@@ -73,7 +73,7 @@ function Experience() {
           }
         >
           <h3 className='vertical-timeline-element-title'>
-          Been responsible to support more than 30 BOTS in production
+          Been responsible to support more than 30 BOTS in production.
           </h3>
           
         </VerticalTimelineElement>
@@ -88,7 +88,7 @@ function Experience() {
           }
         >
           <h3 className='vertical-timeline-element-title'>
-          Started my Journey with MERN STACK Development
+          Started my Journey with MERN STACK Development.
           </h3>
           
         </VerticalTimelineElement>
