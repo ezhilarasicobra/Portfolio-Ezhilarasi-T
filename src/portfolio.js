@@ -2,6 +2,7 @@ import pic1 from '../src/components/images/pumkintales.PNG'
 import pic2 from '../src/components/images/onlinesource.PNG'
 import pic3 from '../src/components/images/doctor.PNG'
 import pic4 from '../src/components/images/book.PNG'
+import pic5 from '../src/components/images/diary.PNG'
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://ezhilarasi-t-portfolio.netlify.app/',
@@ -59,12 +60,23 @@ const projects = [
     name: 'E -BookMark',
     description:
       'You can have a list of books to be added in your wishlist of your application.',
-      stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB', 'Alan AI'],
+      stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB'],
       sourceCodeReact: 'https://github.com/ezhilarasicobra/reactbook',
       pic:pic4,
       sourceCodeNode: 'https://github.com/ezhilarasicobra/boolistnode',
       livePreview: 'https://gbooksclone.netlify.app/',
-  }
+  },
+  {
+    name: 'Online Diary',
+    description:
+      'This is a E Diary, where you can add your input as in like your physical Journal.',
+      stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB'],
+      sourceCodeReact: 'https://github.com/ezhilarasicobra/DiaryReact',
+      pic:pic5,
+      sourceCodeNode: 'https://github.com/ezhilarasicobra/DiaryNode',
+      livePreview: 'https://diaryappli.netlify.app/',
+  },
+ 
 ]
 
 const skills = [
