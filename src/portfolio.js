@@ -38,7 +38,7 @@ const projects = [
   {
     name: 'Online Source Saver',
     description:
-      'This is a simple List Appliaction to save the online source, which can be added to your bucket  list and to prioritize the work to be finished ',
+      'This is a simple List Appliaction to save the online source, which can be added to your bucket  list and to prioritize the work to be finished. ',
       stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB'],
       sourceCodeReact: 'https://github.com/ezhilarasicobra/ListApplicationReact',
       pic:pic2,
@@ -48,7 +48,7 @@ const projects = [
   {
     name: 'MEdii  +',
     description:
-      'This Application is used to book appointments with doctors and vice versa. Users can book/cancel their appointments online easily',
+      'This Application is used to book appointments with doctors and vice versa. Users can book/cancel their appointments online easily.',
       stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB'],
       sourceCodeReact: 'https://github.com/ezhilarasicobra/DoctorBookingReact',
       pic:pic3,
@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'E -BookMark',
     description:
-      'You can have a list of books to be added in your wishlist of your application',
+      'You can have a list of books to be added in your wishlist of your application.',
       stack: ['NodeJs', 'JavaScript', 'React', 'Mongo DB', 'Alan AI'],
       sourceCodeReact: 'https://github.com/ezhilarasicobra/reactbook',
       pic:pic4,
